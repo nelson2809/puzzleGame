@@ -47,7 +47,7 @@ My App is an interactive word guess game where users can choose a topic, start t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/my-app.git
+   git clone https://github.com/nelson2809/puzzleGame.git
 
 # Contact
 For any inquiries or questions, please contact me at [xaviernelson121@gmail.com].
